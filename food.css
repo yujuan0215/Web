@@ -1,0 +1,29 @@
+body{
+width:100%;
+height: 100%;
+}
+.rand{
+  position:absolute;
+  
+  width:100%;
+  text-align:center;
+}
+.go
+{
+  left:48vw;
+  position:absolute;
+  text-align:center;
+  top:15vh;
+  border:solid;
+  width:5vw;
+  height:3vh;
+  border-radius:5px;
+}
+.ans{
+  width:100%;
+  position:absolute;
+  top:40vh;
+}
+.Ans{
+  text-align:center;
+}
