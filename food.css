@@ -28,5 +28,15 @@ height: 100%;
   text-align:center;
 }
 a {
+  position:relative;
+  top:1vw;
     text-decoration:none;
+    color:black;
+}
+.back
+{
+  width: 10vw;
+  height: 8vh;
+  background-color:#DBFF79;
+  text-align:center;
 }
