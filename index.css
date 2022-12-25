@@ -1,0 +1,46 @@
+html, body{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.t
+{
+  height:100px;
+  width:300px;
+  border-radius: 20px;
+  border:double 10px; 
+  background-color:#DBFF79;
+  margin-top: 30vh;
+  margin-left:40vw;
+  padding:auto;
+}
+.tool
+{
+  text-align:center;
+  position:relative;
+  top:1vh;
+}
+.st{
+
+ position:absolute;
+ left: 40vw;
+ top:50vh;
+ display:flex;
+  
+}
+.food
+{
+  width: 100px;
+  height: 50px;
+  background-color: #C2F0FF;
+  border:solid;
+  margin-right:0.5vw;
+  border-radius:5px;
+}
+.a{
+  position:relative;
+  bottom:1vh;
+  text-align:center;
+  
+}
