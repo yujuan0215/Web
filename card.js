@@ -20,6 +20,13 @@ $(".line").click(function()
   $(".inside").css("border-color", bg);
 })
 
+$(".word").click(function()
+{
+  $(".text").css("color", bg);
+  $(".it").css("color", bg);
+  $(".to").css("color", bg);
+})
+
 $(".red").click(function()
 {
   $(".now").css("color", "#D92714");
@@ -60,4 +67,20 @@ $(".p").click(function()
 {
   $(".now").css("color", "#FFFFFF");
   bg = "#FFFFFF";
+});
+$(".G").click(function()
+{
+  $(".now").css("color", "#F57BDC");
+  bg = "#F57BDC";
+});
+$(".purple").click(function()
+{
+  $(".now").css("color", "#9b08c0");
+  bg = "#9b08c0";
+});
+
+$(".gold").click(function()
+{
+  $(".now").css("color", "#f3da1b");
+  bg = "#f3da1b";
 });
