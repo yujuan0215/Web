@@ -84,3 +84,8 @@ $(".gold").click(function()
   $(".now").css("color", "#f3da1b");
   bg = "#f3da1b";
 });
+$(".black").click(function()
+{
+  $(".now").css("color", "#000000");
+  bg = "#000000";
+});
